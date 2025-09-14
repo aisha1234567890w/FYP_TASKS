@@ -27,6 +27,7 @@ pip install pyttsx3 SpeechRecognition openpyxl pyaudio
 Clone or download this repository:
 
 git clone https://github.com/YOURUSERNAME/FYP_TASKS.git
+
 cd FYP_TASKS
 
 
