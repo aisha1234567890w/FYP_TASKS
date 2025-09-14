@@ -33,18 +33,18 @@ git clone https://github.com/YOURUSERNAME/FYP_TASKS.git
 cd FYP_TASKS
 
 
-(Or click Code → Download ZIP and extract.)
+**(Or click Code → Download ZIP and extract.)**
 
 Plug in and test your microphone.
 
-Run the program:
+**Run the program:**
 
 python voice_agent.py
 
 
 Speak when prompted. If speech is not recognized, type your answer.
 
-The collected details are saved to user_records.xlsx in the same folder.
+The collected details are saved to **user_records.xlsx** in the same folder.
 
 **🧪 Testing Example**
 
@@ -53,7 +53,7 @@ What is your gender?	Female
 Email address?	aisha sadiqa at the rate gmail dot com
 Phone number?	plus nine two three zero one…
 
-ColdBot will normalize and store:
+**ColdBot will normalize and store:**
 
 Timestamp | Aisha Sadiqa | Female | aisha.sadiqa@gmail.com | +92301234567
 
