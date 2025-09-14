@@ -22,6 +22,7 @@ Open a terminal (Command Prompt, PowerShell, or Git Bash) and run:
 ```bash
 pip install pyttsx3 SpeechRecognition openpyxl pyaudio
 
+
 **How to Run**
 
 Clone or download this repository:
