@@ -49,13 +49,16 @@ The collected details are saved to **user_records.xlsx** in the same folder.
 **🧪 Testing Example**
 
 What is your full name?	Aisha Sadiqa
+
 What is your gender?	Female
-Email address?	aisha sadiqa at the rate gmail dot com
+
+Email address?	aisha sadiqa 441 at the rate gmail dot com
+
 Phone number?	plus nine two three zero one…
 
 **ColdBot will normalize and store:**
 
-Timestamp | Aisha Sadiqa | Female | aisha.sadiqa@gmail.com | +92301234567
+Timestamp | Aisha Sadiqa | Female | aishasadiqa441@gmail.com | +92301234567
 
 **## 🎤 Testing Your Microphone/Voice**
 
