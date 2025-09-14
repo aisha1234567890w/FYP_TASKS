@@ -75,9 +75,12 @@ Add an analytics dashboard for call performance.
 
 **⚙ Troubleshooting**
 
-Issue	                          Solution
-Mic not working                	Check Windows sound settings or try another microphone/headset.
+Mic not working:                	
 
-Speech not recognized	          Ensure a stable internet connection.
+Check Windows sound settings or try another microphone/headset.
+
+Speech not recognized:
+
+Ensure a stable internet connection.
 
 
