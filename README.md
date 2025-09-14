@@ -1,6 +1,6 @@
-**ColdBot – Automated Cold Calling Voice Agent**
+**ColdBotX – Automated Cold Calling Voice Agent**
 
-ColdBot is a Python-based voice assistant created for our Final Year Project (FYP) to automate **cold calling** tasks.  
+ColdBotX is a Python-based voice assistant created for our Final Year Project (FYP) to automate **cold calling** tasks.  
 It listens to spoken input, extracts user details (name, gender, email, phone), and stores them in an Excel file for follow-up.
 
 **Features**
