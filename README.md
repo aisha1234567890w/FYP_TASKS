@@ -19,7 +19,6 @@ Install Python
 
 **Install Dependencies**
 Open a terminal (Command Prompt, PowerShell, or Git Bash) and run:
-```bash
 pip install pyttsx3 SpeechRecognition openpyxl pyaudio
 
 
@@ -57,7 +56,6 @@ Timestamp | Aisha Sadiqa | Female | aisha.sadiqa@gmail.com | +92301234567
 
 **## 🎤 Testing Your Microphone/Voice**
 To quickly test your system’s text-to-speech:
-```bash
 python test_microphone_tts.py
 
 
