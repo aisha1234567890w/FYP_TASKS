@@ -55,6 +55,12 @@ ColdBot will normalize and store:
 
 Timestamp | Aisha Sadiqa | Female | aisha.sadiqa@gmail.com | +92301234567
 
+**## 🎤 Testing Your Microphone/Voice**
+To quickly test your system’s text-to-speech:
+```bash
+python test_microphone_tts.py
+
+
 **Future Improvements**
 
 Add a GUI interface for easier use.
