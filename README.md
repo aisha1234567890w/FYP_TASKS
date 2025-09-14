@@ -56,7 +56,7 @@ Email address?	aisha sadiqa 441 at the rate gmail dot com.
 
 Phone number?	plus nine two three zero one.
 
-**ColdBot will normalize and store:**
+**voiceagent will normalize and store:**
 
 Timestamp | Aisha Sadiqa | Female | aishasadiqa441@gmail.com | +92301234567
 
